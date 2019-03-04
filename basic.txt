@@ -2,3 +2,4 @@ git init
 git status
 git --version
 git fetch
+git merge
